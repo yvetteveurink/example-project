@@ -11,7 +11,7 @@ In order to run the project:
 1. use the command line to get to the location of the downloaded folder (cd "filepath"/example-project/responsiveWebpage2)
 2. run "npm install" to install the node modules. 
 3. run "npm run dev".
-4. Now you can open http://localhost:8081 to view the project in your browser.
+4. Now you can open http://localhost:8080 (or the port mentioned if this one is taken already) to view the project in your browser.
 
 ## Build Setup
 
