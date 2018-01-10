@@ -1,0 +1,106 @@
+.smallest-text {
+  font-size:2.2vw;
+}
+
+.small-text {
+  font-size: 2.5vw;
+}
+
+.medium-text {
+  font-size: 3.2vw;
+}
+
+.large-text {
+  font-size: 4.2vw;
+}
+
+.stripe {
+  height: 0.25em;
+}
+
+.column-wrapper {
+  height: fit-content !important;
+  background-color: var(--main-bg-color);
+}
+
+.inner-container {
+  padding: 10px;
+  margin-top:30px;
+}
+
+@media (min-width: 567px) {
+  .smallest-text {
+    font-size: 1vw;
+  }
+
+  .small-text {
+    font-size: 1.2vw;
+  }
+
+  .medium-text {
+    font-size: 1.6vw;
+  }
+
+  .large-text {
+    font-size: 2.2vw;
+  }
+
+  .column-wrapper {
+    height: 100vh !important;
+    overflow: scroll;
+  }
+}
+
+@media (min-width: 768px) {
+  .smallest-text {
+    font-size: 1.2vw;
+  }
+
+  .small-text {
+    font-size: 1.35vw;
+  }
+
+  .medium-text {
+    font-size: 1.7vw;
+  }
+
+  .large-text {
+    font-size: 2.3vw;
+  }
+}
+
+@media (min-width: 992px) {
+  .smallest-text {
+    font-size: 0.9vw;
+  }
+
+  .small-text {
+    font-size: 1vw;
+  }
+
+  .medium-text {
+    font-size: 1.4vw;
+  }
+
+  .large-text {
+    font-size: 2vw;
+  }
+}
+
+@media (min-width: 992px) {
+  .smallest-text {
+    font-size: 0.85vw;
+  }
+
+  .small-text {
+    font-size: 1.1vw;
+  }
+
+  .medium-text {
+    font-size: 1.25vw;
+  }
+
+  .large-text {
+    font-size: 1.8vw;
+  }
+}
