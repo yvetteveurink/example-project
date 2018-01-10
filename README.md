@@ -3,9 +3,13 @@ This repo holds an example of a responsive webpage optimized for mobile, tablet 
 
 # responsivewebpage2
 
-To load this project, please clone or download the repo to your local machine. Once downloaded, open the folder a text editor by choice to view the code.
-In order to run the project use the command line to get to the location of the downloaded folder (cd filepath/responsiveWebpage2) and and run "npm run dev".
-Now you can open http://localhost:8081 to view the project in your browser.
+To load this project, please clone or download the repo to your local machine. Once downloaded, open the folder in a IDE by choice to view the code.
+
+In order to run the project:
+1. use the command line to get to the location of the downloaded folder (cd filepath/responsiveWebpage2)
+2. Make sure you have npm installed (https://docs.npmjs.com/getting-started/installing-node).
+2. run "npm run dev".
+4. Now you can open http://localhost:8081 to view the project in your browser.
 
 ## Build Setup
 
